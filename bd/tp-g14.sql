@@ -1,0 +1,1 @@
+CREATE TABLE `bdtpgrupo14`.`t_usuarios` ( `id_usuario` INT(10) NOT NULL AUTO_INCREMENT , `usuario` VARCHAR(245) NOT NULL , `mail` VARCHAR(245) NOT NULL , `password` VARCHAR(245) NOT NULL , PRIMARY KEY (`id_usuario`)) ENGINE = InnoDB;
